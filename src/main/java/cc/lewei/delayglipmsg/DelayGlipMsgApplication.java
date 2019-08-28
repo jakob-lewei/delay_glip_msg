@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DelayGlipMsgApplication {
+public class DelayglipmsgApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DelayGlipMsgApplication.class, args);
+		SpringApplication.run(DelayglipmsgApplication.class, args);
 	}
 
 }
